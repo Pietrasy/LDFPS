@@ -18,6 +18,22 @@ A prototype FPS Shooter created entirely in blueprints. The project demonstrates
 [Level Design Document](#Level-Design-Document)<br/>
 
 ## General Overview
+The player can pick up weapons that belong to one of three categories: Main, Secondary, or Special. Once picked up, the weapon is assigned to the appropriate slot and displayed in the inventory widget.<br/><br/>
+Weapons feature different fire modes: single, burst, and full-auto. Firing is affected by recoil and bullet spread. The player can switch between equipped weapons. If the player picks up a weapon of a type already present in their inventory, it replaces the one currently stored in that slot.<br/><br/>
+Weapon pickups display information in the component widgets.<br/>
+Hit feedback is provided via a hitmarker on successful shots.<br/>
+The environment includes interactive elements such as explosive barrels and reactive targets.<br/>
+
+https://github.com/user-attachments/assets/3470c5ff-a6f5-41f2-bdb8-230b9c35dcc8
+
+
+Weapon showcase: Rifle, Shotgun, Sniper, Rail Bolt, SMG, and Machine Gun.<br/>
+
+https://github.com/user-attachments/assets/a43fabde-23e0-487d-bad9-ddb1a29a0635
+
+
+
+
 
 ## Controls
 - **Left Mouse Button** - Fire<br />
