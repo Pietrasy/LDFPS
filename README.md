@@ -64,6 +64,6 @@ If the player's inventory already contains a weapon of the same `weapon type` as
 ![ScreenShot00005](https://github.com/user-attachments/assets/50aa9dd1-2969-42b4-9ecb-093c46665f18)
 ![ScreenShot00006](https://github.com/user-attachments/assets/efedb94f-d83f-4e6c-89c4-45ce2ef62780)
 
-## [Level Design Document)](https://drive.google.com/file/d/1lckq297p5YfapVDh-aDoTaedepVvHP1Z/view?usp=sharing)
+## [Level Design Document](https://drive.google.com/file/d/1lckq297p5YfapVDh-aDoTaedepVvHP1Z/view?usp=sharing)
 ![ScreenShot00002](https://github.com/user-attachments/assets/3c6d38b7-5210-4cbb-b1eb-e3de9419af4e)
 
