@@ -15,7 +15,7 @@ A prototype FPS Shooter created entirely in blueprints. The project demonstrates
 [Creating a new weapon](#Creating-a-new-weapon)<br/>
 [Setting up a spawner](#Setting-up-a-spawner)<br/>
 [Picking up or swapping a weapon](#Pick-up-or-exchange-a-weapon)<br/>
-[Level Design Document](#Level-Design-Document)<br/>
+[Level Design Document (Click me!)](#Level-Design-Document)<br/>
 
 ## General Overview
 The player can pick up weapons that belong to one of three categories: Main, Secondary, or Special. Once picked up, the weapon is assigned to the appropriate slot and displayed in the inventory widget.<br/><br/>
@@ -64,6 +64,6 @@ If the player's inventory already contains a weapon of the same `weapon type` as
 ![ScreenShot00005](https://github.com/user-attachments/assets/50aa9dd1-2969-42b4-9ecb-093c46665f18)
 ![ScreenShot00006](https://github.com/user-attachments/assets/efedb94f-d83f-4e6c-89c4-45ce2ef62780)
 
-## Level Design Document
+## [Level Design Document (Click me!)](https://drive.google.com/file/d/1lckq297p5YfapVDh-aDoTaedepVvHP1Z/view?usp=sharing)
 ![ScreenShot00002](https://github.com/user-attachments/assets/3c6d38b7-5210-4cbb-b1eb-e3de9419af4e)
-Coming soon or to be filled in later.<br/>
+
